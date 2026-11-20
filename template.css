@@ -1,0 +1,22 @@
+/*
+ *Name: [Tyrian Mathis]
+ *UnityID: [tdmathis]
+ *Date: [11/19/26]
+ *Assignment: [Webpages Lab]
+ *Description: [Assignment Description]
+ */
+ 
+p {
+    font-family: Times;
+    font-size: 16px;
+    color: #f08998;
+}
+
+.table-border {
+    border: 1px solid #f08998;
+}
+
+#photo-resize {
+    max-width: 250px;
+    max-height: 300px;
+}
